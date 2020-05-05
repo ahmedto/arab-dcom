@@ -1,0 +1,413 @@
+﻿.prefix {
+background-color: mediumseagreen;
+background-position: 0 -1px;
+background-repeat: repeat-x;
+border-radius: 3px;
+color: #fff;
+display: inline-block;
+font-size: 9px;
+font-weight: 700;
+height: 15px;
+line-height: 15px;
+padding: 0 5px;
+text-shadow: 0 -1px 0 rgba(0,0,0,0.2);
+text-transform: uppercase;
+vertical-align: middle;
+min-width: 45px;
+text-align: center;
+}
+.prefix.اسلاميات{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.خبر{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.شرح{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px #81b009;}
+.prefix.BBcode{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px #81b009;}
+.prefix.Style{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.Template{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.Product{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(98, 131, 201);}
+.prefix.Blogger{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px orange;}
+.prefix.شكوى{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(255, 0, 10);}
+.prefix.WordPress{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.دعم فنى{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.عرض اعلان{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.بيع{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.مخالف{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(0, 0, 0);}
+.prefix.تبادل اعلاني{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.طلب{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.help{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(98, 131, 201);}
+.prefix.عرض برمجة{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px orange;}
+.prefix.عرض تصميم{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.شعر{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+
+.prefix.Tips{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.tips{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.Solved{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px #81b009;}
+.prefix.solved{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px #81b009;}
+.prefix.Tutorial{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.Guide{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.Help{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(98, 131, 201);}
+.prefix.Progress{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px orange;}
+.prefix.Closed{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(255, 0, 10);}
+.prefix.Off-Topic{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px #b3b3b3;}
+.prefix.Games{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.Audio{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.Video{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.Download{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.Error{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(0, 0, 0);}
+.prefix.tutorial{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.guide{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(201, 98, 98);}
+.prefix.help{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(98, 131, 201);}
+.prefix.progress{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px orange;}
+.prefix.closed{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(255, 0, 10);}
+.prefix.off-topic{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px #b3b3b3;}
+.prefix.games{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.audio{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.video{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.download{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(74, 174, 206);}
+.prefix.error{background: url(http://i39.servimg.com/u/f39/16/75/43/85/highli10.png) repeat-x scroll 0 -1px rgb(0, 0, 0);}
+
+.sceditor-toolbar {
+text-align: center!important;;
+}
+
+/* Zzpreview by devs.forumvi.com */
+#Zzpreview_overlay{position:fixed;width:100%;height:100%;left:0;top:35px;background:rgba(0,0,0,0.85);z-index:999}
+#Zzpreview_post{width:700px;min-height:300px;max-height:500px;overflow:auto;background:#FFF;border:3px solid #333;margin:0 auto;padding:10px 20px}
+#Zzpreview_overlay > p.h2{height:40px;line-height:40px;background:#111;border-bottom:3px solid #0085FF;margin-bottom:30px;text-align:right}
+#Zzpreview_overlay .Zzpreview_title{font-weight:700;display:block;background:#0085FF;color:#FFF;font-size:1.23em;margin:0 10px;padding:0 15px}
+#Zzpreview_overlay > div.center > input.Zzpreview_button{border:1px solid;height:34px!important;line-height:32px;color:#FFF;background:#0085FF;margin:10px;padding:0 15px!important}
+#Zzpreview_overlay > div.center > input.Zzpreview_button:hover{cursor:pointer;background:#444}
+#Zzpreview_overlay .Zzpreview_close{display:inline-block;height:40px;background:red;color:#FFF;font-weight:700;padding:0 15px}
+.Zzpreview_close:hover,.Zzpreview_get:hover{color:#FF0;cursor:pointer}
+#Zzpreview_post ol,#Zzpreview_post ul{margin-left:30px}
+
+/* View topic */
+.pun .btnPost{border:0;margin:20px 0;padding:0}
+.pun .main-content.topic{background:#FFF;border:0 none}
+.pun .p-hidden + .post{display:none;border:1px dashed #FFF;background:#999!important}
+.post .quoteLink{display:inline-block;height:10px;width:12px;background:url(http://i83.servimg.com/u/f83/16/58/89/73/viewpo10.png) no-repeat transparent;vertical-align:middle;margin-left:3px}
+.quoteLink img{display:none!important}
+.pun .user.leftname,.pun .posthead, .pun .post-head{height:30px;line-height:26px;border-bottom:1px dashed #F2F2F2;padding:0!important}
+.pun .user.leftname{text-align:center}
+.pun .posthead h2{padding:0 1em}
+.pun .postfoot .user-contact{left:0;position:absolute;text-align:center;width:150px;z-index:1}
+.options-button.user-contact img{width:24px;height:24px;padding:2px}
+.pun .post .user{overflow:visible;margin-top:0!important;width:150px;padding:0}
+.pun .post .user,.pun .postfoot{margin-left:-150px!important;position:relative}
+.postfoot{height:36px}
+.pun .postmain{border-color:#f3f3f3;margin-left:150px!important}
+.entry-content img{max-width:100%;border:1px solid #999;padding:2px}
+.lb_lazy img{display:block;max-width:600px;min-width:150px;cursor:url(//dl.dropboxusercontent.com/u/126946313/zoomin.cur), -webkit-zoom-in;margin:0 auto}
+.prevnext{position:absolute;right:0;font-size:16px;bottom:-5px}
+.prevnext a{display:inline-block;height:16px;font-weight:600;line-height:16px;color:#999!important}
+.prevnext .next{background:url(http://i56.servimg.com/u/f56/18/59/49/93/next_i10.png) no-repeat scroll right -16px transparent;padding-right:18px}
+.prevnext .prev{background:url(http://i56.servimg.com/u/f56/18/59/49/93/prev_i10.png) no-repeat scroll 0 -16px transparent;padding-left:18px}
+.prevnext .prev:hover{background-position:0 0;color:#CA01BA!important}
+.prevnext .next:hover{background-position:100% 0;color:#CA01BA!important}
+.user.leftname a{text-shadow:0 0 2px #FFF,0 0 2px #FFF,0 0 2px #FFF,0 0 2px #FFF}
+.pun .post{border:1px solid #CCC;background:#CCC;margin:10px 0}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn bأ،آ»â€¹ cأ،آ؛آ¥m"]{opacity:0.1}
+.main-content.topic > .post[data-rank^="Sؤ‚آ،ng lأ،آ؛آ­p viؤ‚آھn"]{background:#FFF;border-color:#666}
+.main-content.topic > .post[data-rank^="Quأ،آ؛آ£n trأ،آ»â€¹ viؤ‚آھn"]{background:#FC9696;border-color:#FC9696}
+.main-content.topic > .post[data-rank^="Nhؤ‚آ¢n viؤ‚آھn"]{background:#EE89B1;border-color:#EE89B1}
+.main-content.topic > .post[data-rank^="Quأ،آ؛آ£n lؤ‚آ½ viؤ‚آھn"]{background:#54975C;border-color:#54975C}
+.main-content.topic > .post[data-rank^="Phؤ‚آ،t triأ،آ»ئ’n viؤ‚آھn"]{background:#87C7E6;border-color:#87C7E6}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn nؤ‚آ²ng cأ،آ»â€کt"]{background:#D996FF;border-color:#D996FF}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn kأ،آ»آ³ cأ،آ»آ±u"]{background:#579B9B;border-color:#579B9B}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn tؤ‚آ­ch cأ،آ»آ±c"]{background:#BD70A2;border-color:#BD70A2}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn gأ،آ؛آ¯n bؤ‚آ³"]{background:#FFC398;border-color:#FFC398}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn thؤ‚آ¢n thiأ،آ؛آ؟t"]{background:#7C9DD1;border-color:#7C9DD1}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn quen thuأ،آ»â„¢c"]{background:#95AD67;border-color:#95AD67}
+.main-content.topic > .post[data-rank^="Thؤ‚ nh viؤ‚آھn chؤ‚آ­nh thأ،آ»آ©c"]{background:#A78D8D;border-color:#A78D8D}
+.pun .post:hover {border-left-color:#359bed!important}
+.pun .user-ident .user-basic-info > img{width:128px;padding:0 10px}
+.pun .user .user-ident > .username{display:block;width:128px;margin-top:-24px;text-align:center}
+.pun .user-ident .user-basic-info > span{display:none}
+
+/*custtom command begin*/
+.arab-dinfo, .arab-dsuccess, .arab-dwarning, .arab-dtips {
+width: 100%;
+margin: 10px 0px;
+padding: 10px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+border-radius: 4px 4px 4px;
+min-height: 40px;
+height: auto !important;
+height: 40px;
+text-align: justify;
+font-size: 15px;
+}
+.arab-dinfo {
+background-color: #d1e4f3;
+background-image: url("http://i39.servimg.com/u/f39/16/75/43/85/inform10.png");
+color: #00529B;
+border: 1px solid #4d8fcb;
+}
+
+.arab-dsuccess {
+background-color: #effeb9;
+background-image: url("http://i39.servimg.com/u/f39/16/75/43/85/accept10.png");
+color: #4F8A10;
+border: 1px solid #9ac601;
+}
+.arab-dwarning {
+background-color: #ffeaa9;
+background-image: url("http://i39.servimg.com/u/f39/16/75/43/85/error10.png");
+color: #9F6000;
+border: 1px solid #f9b516;
+}
+
+.arab-dtips {
+background-color: #FEEAC9;
+background-image: url("http://i39.servimg.com/u/f39/16/75/43/85/light210.png");
+border: 1px solid #D38E49;
+color: #bb640c;
+}
+.arabdmod-recent {
+	width: 140px;
+	font-size: 0px;
+}
+.arabdmod-recent span span a {
+	width: 140px;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	display: inline-block;
+	color: #4b3c4f;
+}
+.arabdmod-recent span span strong a {
+	font-size: 0px;
+}
+.arabdmod-recent span span a img {
+	display : none;
+}
+.arabdmod-recent span span a prefix {
+	display : none;
+}
+.arabdmod-recent span span br {
+	display : none;
+}
+
+.arabdmod-active {
+	width: 130px;
+	font-size: 0px;
+}
+.arabdmod-active span span a {
+	width: 130px;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	display: inline-block;
+	color: #4b3c4f;
+}
+.arabdmod-active span span strong a {
+	font-size: 0px;
+}
+.arabdmod-active span span a img {
+	display : none;
+}
+.arabdmod-active span span a prefix {
+	display : none;
+}
+.arabdmod-active span span br {
+	display : none;
+}
+.arabdmod-viewed {
+	width: 130px;
+	font-size: 0px;
+}
+.arabdmod-viewed span span a {
+	width: 130px;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	display: inline-block;
+	color: #4b3c4f;
+}
+.arabdmod-viewed span span strong a {
+	font-size: 0px;
+}
+.arabdmod-viewed span span a img {
+	display : none;
+}
+.arabdmod-viewed span span a prefix {
+	display : none;
+}
+.arabdmod-viewed span span br {
+	display : none;
+}
+
+.arabdmod-classical {
+	text-align: center;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 10.5px;
+	font-weight: bold;
+	width: 123px;
+	color: #4b3c4f;
+}
+.arabdmod-classical span span a {
+	display : none;
+}
+.arabdmod-classical span span strong a {
+	display : none;
+}
+.arabdmod-classical span span a img  {
+	display : none;
+}
+.arabdmod-classical span span br {
+	display : none;
+}
+
+.arabdmod-poster {
+	width: 90px;
+	font-size: 0px;
+	text-align: center;
+}
+.arabdmod-poster span span a {
+	width: 100px;
+	font-size: 0px;
+}
+.arabdmod-poster span span strong a span {
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	display: inline;
+	text-align: center;
+}
+.arabdmod-poster span span strong {
+	font-size: 13px;
+	float: right;
+	padding-right: 10px;
+}
+.arabdmod-poster span span a span{
+	display : none;
+}
+.arabdmod-poster span span a img {
+	display : none;
+}
+
+.arabdmod-poster span span br {
+	display : none;
+}
+
+
+.gensmall2 {
+	width: 140px;
+	line-height: 20px;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #4b3c4f;
+	padding-top: 3px;
+	padding-bottom: 7px;
+	text-align: center;
+	border-bottom: 2px dotted #4b3c4f;
+}
+.forumline {
+	background-color: white;
+	float: center;
+}
+.vb-arabd {
+	width: 100px;
+	font-size: 0px;
+}
+.vb-arabd span span a {
+	width: 100px;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 12px;
+	font-weight: bold;
+	display: inline-block;
+	color: #4b3c4f;
+}
+.vb-arabd span span strong a {
+	font-size: 0px;
+}
+.vb-arabd span span a img {
+	display : none;
+}
+.vb-arabd span span a prefix {
+	display : none;
+}
+
+.vb-arabd span span br {
+	display : none;
+}
+.blog-arabd {
+	text-align: center;
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 10.5px;
+	font-weight: bold;
+	width: 190px;
+	color: #4b3c4f;
+}
+.blog-arabd span span a {
+	display : none;
+}
+.blog-arabd span span strong a {
+	display : none;
+}
+.blog-arabd span span a img  {
+	display : none;
+}
+.blog-arabd span span br {
+	display : none;
+}
+.name-arabd {
+	width: 90px;
+	font-size: 0px;
+	text-align: center;
+}
+.name-arabd span span a {
+	width: 90px;
+	font-size: 0px;
+}
+.name-arabd span span strong a span {
+	font-family: 'droid Arabic Kufi',tahoma;
+	font-size: 13px;
+	font-weight: bold;
+	display: inline;
+	text-align: center;
+}
+.name-arabd span span strong {
+	font-size: 13px;
+	float: right;
+	padding-right: 10px;
+}
+.name-arabd span span a span{
+	display : none;
+}
+.name-arabd span span a img {
+	display : none;
+}
+
+.name-arabd span span br {
+	display : none;
+}
+.lasttopic-arabd {
+	width: 25px;
+	font-size: 0px;
+}
+.lasttopic-arabd span span a {
+	font-size: 0px;
+}
+.lasttopic-arabd span span strong a {
+	display : none;
+}
+.lasttopic-arabd span span br {
+	display : none;
+}
+.lasttopic-arabd:hover {
+	opacity: 0.8;
+}
+.arabd {
+	top-height:-25px;
+	border-radius: 3px;
+	margin-top: 5px;
+	margin-bottom: 3px;
+	width: 100%;
+	height:25px;
+}
+.arabddiv {
+	padding-right: 7px;
+	padding-left: 7px;
+	width: auto;
+}
